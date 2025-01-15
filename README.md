@@ -44,5 +44,5 @@ Prioritize Tasks: Select a priority for each task (High, Medium, Low).
 Check Weather: For outdoor tasks, the app will fetch and display relevant weather information.
 Logout: Click the logout button to logout.
 
-![Project Screenshot](./assets/screenshot(70).png)
-![Project Screenshot](./assets/screenshot(71).png)
+![Alt text](./src/assets/Screenshot(70).png)
+![Project Screenshot](./src/assets/Screenshot(71).png)

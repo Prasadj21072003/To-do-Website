@@ -1,0 +1,42 @@
+.task-item {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 30px;
+  width: 100%;
+  font-size: 1rem;
+  border-bottom: 1px solid #333;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.task-item-check {
+  background-color: #232323;
+  margin-right: 10px;
+  border-radius: 0px;
+  border: 2px solid white;
+  font-size: 1rem;
+  position: relative;
+  bottom: 0px;
+}
+
+.completed {
+  text-decoration-line: line-through;
+  color: #347136;
+}
+
+.task-item.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.deleteicon {
+  colour: red;
+}
+
+.icondiv {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}

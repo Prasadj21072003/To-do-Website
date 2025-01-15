@@ -1,0 +1,75 @@
+.task-input-div {
+  background-color: #343a40;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  width: 100%;
+  margin-top: 10px;
+}
+span {
+  padding: 12px;
+  color: rgb(87, 173, 90);
+}
+
+.task-input {
+  width: 99%;
+  background-color: transparent;
+  border: none;
+  margin-bottom: 10px;
+  padding: 30px 15px;
+  color: white;
+}
+
+input::placeholder {
+  color: white;
+  font-size: 0.8rem;
+}
+input:focus {
+  outline: none;
+}
+
+.task-input-bar {
+  display: flex;
+  item-align: center;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right: 15px;
+}
+
+.task-input-icons {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.icons {
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  background-color: #347136;
+}
+
+.dropdown button {
+  border-radius: 5px;
+  background-color: #347136;
+  padding: 10px 25px;
+  font-size: 0.8rem;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown-item {
+  color: white;
+  font-size: 0.8rem;
+}
+
+button {
+  border-radius: 5px;
+  background-color: #347136;
+  padding: 10px 25px;
+  font-size: 0.8rem;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

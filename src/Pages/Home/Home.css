@@ -1,0 +1,30 @@
+.app-container {
+  display: block;
+}
+
+.main-content {
+  color: white;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+@media only screen and (min-width: 750px) {
+  body {
+    padding: 1rem 2.5rem;
+  }
+  .app-container {
+    display: flex;
+    gap: 30px;
+  }
+  .main-content {
+    height: 100%;
+    overflow-y: visible;
+    position: relative;
+    top: 10px;
+  }
+}

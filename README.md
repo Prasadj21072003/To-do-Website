@@ -43,3 +43,6 @@ Delete Tasks: Click the "Delete" button next to any task to remove it.
 Prioritize Tasks: Select a priority for each task (High, Medium, Low).
 Check Weather: For outdoor tasks, the app will fetch and display relevant weather information.
 Logout: Click the logout button to logout.
+
+![Project Screenshot](./assets/screenshot(70).jpg)
+![Project Screenshot](./assets/screenshot(71).jpg)
